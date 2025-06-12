@@ -19,7 +19,7 @@ The design includes all internal and external components, allowing for simulatio
 ---
 
 ## 🛠️ Tools Used
-- **CAD Software**: SolidWorks 2022
+- **CAD Software**: SolidWorks 2024
 - **Motion Simulation**: SolidWorks Motion Study
 
 ---
